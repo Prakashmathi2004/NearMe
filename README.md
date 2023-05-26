@@ -17,10 +17,8 @@ Write the needed HTML code.
 Run the Django server and execute the HTML files.
 
 ### STEP 5
-Write HTML programs for all the regions identified.
+Execute the programs and publish them.
 
-### STEP 6
-Run the Django server and execute the HTML files.
 
 ## CODE
 ~~~
