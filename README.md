@@ -5,22 +5,22 @@ To develop a website to display details about the places around my house.
 ## DESIGN STEPS
 
 ### STEP 1
-Create a Django admin interface.
+Clone the github repository into Theia IDE.
 
 ### STEP 2
-Download your city map from Google.
+Create a new Django project
 
 ### STEP 3
-Using ```<map>``` tag name the map.
+Write the needed HTML code.
 
 ### STEP 4
-Create clickable regions in the image using ```<area>``` tag.
+Run the Django server and execute the HTML files.
 
 ### STEP 5
 Write HTML programs for all the regions identified.
 
 ### STEP 6
-Execute the programs and publish them.
+Run the Django server and execute the HTML files.
 
 ## CODE
 ~~~
